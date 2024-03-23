@@ -42,7 +42,7 @@ The structure and final design underwent many changes throughout the process. Th
 
 The setup of the program is not challenging at all:
 1. Open a Python-compatible code editor first. While Visual Studio Code (VS Code) is a widely used option, any editor that supports Python will function.
-2. Write the intended code to be tested or uploaded.
+2. Write the intended code to be tested or uploaded (our version, which has been already tested, is included in this repository, its name: LEGOColorSorter.py).
 3. Connect the LEGO Mindstorms EV3 brick to the PC using the provided connector. The code will be transferred via this connection.
 4.  In the code editor, locate the EV3DEV DEVICE BROWSER section. This is where it will be performed the interaction with the EV3.
 5. Here there will be two options available, to download it and store it in the EV3 or to just run it to test it, choose the most suitable.
