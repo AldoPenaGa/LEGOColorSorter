@@ -107,7 +107,7 @@ Utilizing the color sorter is rather simple:
 1. Switch the EV3 on.
 2. Have the prototype ready by loading the parts that need to be sorted.
 3. Using the EV3's navigation buttons, navigate to the path where the software was downloaded.
-4. Select the Python application and watch for confirmation (a large checkmark appearing on the screen).
+4. Select the Python application and watch for confirmation (a large play symbol appearing on the screen).
 
 ### Results
 
