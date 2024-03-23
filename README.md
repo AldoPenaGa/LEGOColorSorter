@@ -10,8 +10,8 @@ The project aimed to use the software Bricklink in order to make easier the proc
 
 The structure and final design underwent many changes throughout the process. The main difficulty was to fix the way the pieces were pushed into the classification system to be sorted. After some final discusions and corrections, the following design was achieved.
 
-<img src="https://github.com/AldoPenaGa/LEGOColorSorter/blob/main/DesignIMG1.png">
-<img src="https://github.com/AldoPenaGa/LEGOColorSorter/blob/main/DesignIMG2.png">
+<img src="https://github.com/AldoPenaGa/LEGOColorSorter/blob/main/DesignIMG1.jpg">
+<img src="https://github.com/AldoPenaGa/LEGOColorSorter/blob/main/DesignIMG2.jpg">
   </p>
 </p>
 <be>
