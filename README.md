@@ -119,6 +119,6 @@ Click this link to see an example of how the color sorter functions: https://you
 |-------------------------------|--------------------------------------|
 | Aldo Oziel Peña Gamboa        | https://github.com/AldoPenaGa        |
 | Charbel Breydy Torres         | https://github.com/Buly1601          |
-| Joan Carlos Monfil Huitle     |     |
+| Joan Carlos Monfil Huitle     |    https://github.com/JoanCarlosMonfilHuitle|
 | Enrique Rocha Espinoza        | https://github.com/Enrique-Rocha-Espinoza|
 
